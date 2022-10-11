@@ -1,0 +1,61 @@
+body{
+    background-color: #f5f5f0;
+}
+.res{
+background-image: url('https://dynaimage.cdn.cnn.com/cnn/w_1600/https%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F210504163050-01-india-coronavirus-crisis-210502.jpg');
+ height:700px;
+ margin-bottom:5%;
+}
+.res:hover {
+    box-shadow: 0 0 0 10px black;
+     transition: .5s ease
+    }
+.main{
+border: 1px solid white;
+margin-left:100px;
+margin-right:100px;
+background-color:#ebebe0;
+}
+h1{
+text-align:center;
+color:white;
+font-size:100px;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: black; 
+
+}
+h5{
+color: #3399ff;
+font-size:40px;  
+margin-bottom:0px;   
+}
+
+p{   margin-left:40px;
+margin-right:40px;
+font-size:20px;
+word-spacing:8px;    
+}
+
+.tree{
+font-family:Georgia;
+}
+img{
+display: block;
+margin-left: 20px;
+margin-right: 40px;
+}
+iframe{
+display: block;
+margin-left:auto;
+margin-right: auto;
+}
+h2{
+color:orangered;
+}
+hr{
+    width:80%;
+    background-color:red;
+    margin-right:50%;
+
+}
+
